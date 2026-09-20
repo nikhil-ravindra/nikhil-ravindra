@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML student | Building toward robotics and Machine Learning+🤖 | Turning ideas into things that work
+AI/ML student | Building toward robotics and FullStack | Turning ideas into things that work
 
 
 ## 🌐 Socials:
